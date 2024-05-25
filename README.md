@@ -12,3 +12,9 @@ The pivotal function, detect_emotion_in_video, was designed to analyze recorded 
 **Results**
 
 Here's a demonstration showcasing the functionality of my function in action through a video. It effectively detects faces, encloses them within frames, and accurately labels them with corresponding emotions. In this particular video excerpt from the "Shark Tank" episode, you can observe the precise labeling of emotions. This capability opens avenues for prospective candidates to analyze the reactions of previous participants and tailor their strategies accordingly based on the emotions elicited from the judges during their proposals.
+
+![github](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection/blob/main/1.png)
+![github](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection/blob/main/2.png)
+![github](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection/blob/main/3.png)
+![github](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection/blob/main/4.png)
+![github](https://github.com/pavelkimldn/Computer_Vision_Live_Emotion_Detection/blob/main/5.png)
